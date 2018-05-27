@@ -34,7 +34,8 @@
     "lodash.omitby": "^4.6.0",
     "lodash.pick": "^4.4.0",
     "lodash.pickby": "^4.6.0",
-    "lodash.transform": "^4.6.0"
+    "lodash.transform": "^4.6.0",
+    "tunnel": "0.0.5"
   },
   "nyc": {
     "exclude": [
